@@ -12,13 +12,13 @@ Scheduling: Create and manage event schedules, including speaker and session man
 Communication: Send automated reminders and notifications to attendees and organizers.
 Reporting: Generate detailed reports on event attendance, revenue, and other key metrics.
 
-##Technical Requirements
+## Technical Requirements
 Programming Language: [Insert programming language used, e.g. Python, JavaScript]
 Framework: [Insert framework used, e.g. Django, React]
 Database: [Insert database used, e.g. MySQL, MongoDB]
 Operating System: [Insert operating system used, e.g. Windows, Linux]
 
-##Installation
+## Installation
 Clone the repository: git clone https://github.com/[Your GitHub Username]/event-management-system.git
 Install dependencies: pip install -r requirements.txt (or equivalent command for your package manager)
 Set up the database: [Insert database setup instructions]
