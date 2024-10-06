@@ -1,7 +1,5 @@
 ## Event_Management_System
 
-Event Management System
-
 ## Overview
 The Event Management System is a comprehensive platform designed to streamline the process of organizing and managing events. This system provides a user-friendly interface for event organizers to create, manage, and track events from start to finish.
 
