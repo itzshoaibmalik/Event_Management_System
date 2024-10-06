@@ -20,17 +20,18 @@ Operating System: [Insert operating system used, e.g. Windows, Linux]
 
 ## Installation
 Clone the repository: git clone https://github.com/[Your GitHub Username]/event-management-system.git
+
 Install dependencies: pip install -r requirements.txt (or equivalent command for your package manager)
+
 Set up the database: [Insert database setup instructions]
+
 Run the application: python app.py (or equivalent command for your application)
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the Event Management System, please fork the repository and submit a pull request.
 
 License
-The Event Management System is licensed under the [Insert license, e.g. MIT License].
+The Event Management System is licensed under the [MIT License].
 
 Contact
-If you have any questions or need further assistance, please don't hesitate to contact us at [Insert contact email or link to contact form].
-
-I hope this helps
+If you have any questions or need further assistance, please don't hesitate to contact us at instagram.com/itzshoaibmalik
